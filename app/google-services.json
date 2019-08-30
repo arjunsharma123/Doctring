@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAtT6IRIqIWxBwnn2aFMu6-j5KCCqTxKBM"
+          "current_key": "GOOGLE_API_KEY"
         }
       ],
       "services": {
@@ -42,6 +42,7 @@
           ]
         }
       }
+     
     }
   ],
   "configuration_version": "1"
